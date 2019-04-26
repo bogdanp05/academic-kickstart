@@ -17,28 +17,41 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Teaching Assistant"
+  company = "University of Groningen"
+  company_url = "https://www.rug.nl/"
+  location = "Groningen"
+  date_start = "2018-04-20"
+  date_end = "2019-02-05"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  I worked as a teaching assistant in the following courses:
+
+  * Parallel Computing
+  * Web and Cloud Computing
+  * Software Maintenance and Evolution 
+  """
+
+
+[[experience]]
+  title = "Software Engineer"
+  company = "Tellence"
+  company_url = "https://www.tellence.net/"
+  location = "Bucharest"
+  date_start = "2016-06-15"
+  date_end = "2017-07-15"
+  description = """
+  I worked as part of a team developing an online wellness marketplace for an external client and an internal employee management system.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Software Engineering intern"
+  company = "Kepler-Rominfo"
+  company_url = "https://www.kepler-rominfo.com/pages/home"
+  location = "Bucharest"
+  date_start = "2015-07-01"
+  date_end = "2015-10-01"
+  description = """I worked as part of a team developing Jira and Confluence plugins."""
 
 +++

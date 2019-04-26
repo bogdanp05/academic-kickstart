@@ -25,7 +25,8 @@ email = ""
 interests = [
   "Software Engineering",
   "Distributed Systems",
-  "Data Science"
+  "Data Science",
+  "Data Visualization"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -72,7 +73,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I'm a second year computer science grad student at the University of Groningen and a core developer of [Flask Monitoring Dashboard](https://github.com/flask-dashboard/Flask-MonitoringDashboard). I'm currently (April 2019) working on my master's thesis, called *Measuring the Performance of a Performance Monitor. The case of the Flask Monitoring Dashboard.*
+I'm a second year computer science graduate student at the University of Groningen and a core developer of [Flask Monitoring Dashboard](https://github.com/flask-dashboard/Flask-MonitoringDashboard). I'm currently (April 2019) working on my master's thesis, called *Measuring the Performance of a Performance Monitor. The case of the Flask Monitoring Dashboard.*
 
 
 
